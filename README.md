@@ -20,8 +20,7 @@ hospital-readmission/
 │   ├── diabetic_data.csv            
 │   └── cleaned_data.csv             
 ├── notebooks/
-│   ├── 01_data_cleaning.ipynb   
-│   └── 02_EDA.ipynb             
+│   ├── 01_data_cleaning.ipynb              
 ├── sql/                         
 ├── dashboard/                   
 └── README.md
