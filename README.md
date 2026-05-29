@@ -17,13 +17,13 @@ within 30 days of hospital discharge using real-world data.
 ## 📁 Project Structure
 hospital-readmission/
 ├── data/
-│   ├── diabetic_data.csv       # Raw data
-│   └── cleaned_data.csv        # Cleaned data
+│   ├── diabetic_data.csv            
+│   └── cleaned_data.csv             
 ├── notebooks/
-│   ├── 01_data_cleaning.ipynb  # Data Cleaning
-│   └── 02_EDA.ipynb            # Exploratory Data Analysis
-├── sql/                        # SQL Queries
-├── dashboard/                  # Power BI Dashboard
+│   ├── 01_data_cleaning.ipynb   
+│   └── 02_EDA.ipynb             
+├── sql/                         
+├── dashboard/                   
 └── README.md
 
 ## ✅ Project Phases
