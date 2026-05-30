@@ -47,13 +47,14 @@ patient data from 130 US hospitals.
 - [ ] Phase 4 — Power BI Dashboard
 
 ## 💡 Key Findings
+
 | Finding | Insight |
 |---|---|
-| 👴 Age Group | 60-80 age group లో readmission అత్యధికం |
-| 🛏️ Early Discharge | తక్కువ రోజులు ఉన్న patients కి high risk |
-| 💊 Medications | ఎక్కువ medicines = ఎక్కువ risk |
-| 🏥 Diagnoses | 5+ diagnoses = 2x higher risk |
-| ⚖️ Gender | పెద్దగా impact లేదు |
+| 👴 Age Group | Patients aged 60-80 have the highest readmission rate |
+| 🛏️ Early Discharge | Patients discharged early are more likely to return |
+| 💊 Medications | Patients with more medicines have higher readmission risk |
+| 🏥 Diagnoses | Patients with 5+ diagnoses are 2x more likely to be readmitted |
+| ⚖️ Gender | Gender does not significantly impact readmission rate |
 
 ## 📈 EDA Charts
 | Chart | Insight |
