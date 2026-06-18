@@ -3,7 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![PySpark](https://img.shields.io/badge/PySpark-3.x-orange)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+![Databricks](https://img.shields.io/badge/Databricks-Community-red)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## 📌 Problem Statement
 Hospitals lose millions and patients suffer when they are 
@@ -37,14 +38,15 @@ patient data from 130 US hospitals.
     │   ├── 01_data_cleaning.ipynb       # Data Cleaning
     │   ├── 02_EDA.ipynb                 # Exploratory Data Analysis
     │   └── 03_PySpark_Analysis.ipynb    # PySpark SQL Analysis
-    ├── dashboard/                        # Power BI Dashboard
+    ├── dashboard/
+    │   └── Hospital_Readmission_Dashboard.pbix  # Power BI Dashboard
     └── README.md
 
 ## ✅ Project Phases
 - [x] Phase 1 — Data Cleaning ✅
 - [x] Phase 2 — Exploratory Data Analysis (EDA) ✅
 - [x] Phase 3 — PySpark SQL Analysis ✅
-- [ ] Phase 4 — Power BI Dashboard 🔄
+- [x] Phase 4 — Power BI Dashboard ✅
 
 ## 💡 Key Findings
 | Finding | Insight |
@@ -76,6 +78,13 @@ patient data from 130 US hospitals.
 | Top High Risk Diagnosis | V58 → 41.67% readmission 🚨 |
 | High Risk Patients | 16 diseases + 57 medications 😮 |
 
+## 📊 Power BI Dashboard
+| Page | Visuals |
+|---|---|
+| 📋 Overview | KPI Cards, Readmission Distribution |
+| 👥 Patient Analysis | Age vs Readmission, Gender vs Readmission |
+| 🚨 Risk Analysis | Top 10 Diagnoses, Medications, Hospital Stay |
+
 ## 🚀 How to Run
 
     # Clone the repo
@@ -88,5 +97,6 @@ patient data from 130 US hospitals.
     jupyter notebook
 
 ## 👨‍💻 Author
-**Balaji**
- 
+**Balaji Makkena**
+- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/balajimakkena)
+- 🐱 GitHub: [balajimakkena](https://github.com/balajimakkena)
