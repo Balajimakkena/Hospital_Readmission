@@ -11,7 +11,7 @@ st.markdown("### Identifying key risk factors for 30-day readmission")
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/cleaned_data.csv")
+    df = pd.read_csv("Data/cleaned_data.csv")
     return df
 
 df = load_data()
