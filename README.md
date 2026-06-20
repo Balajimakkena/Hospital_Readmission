@@ -101,5 +101,5 @@ patient data from 130 US hospitals.
 
 ## 👨‍💻 Author
 **Balaji Makkena**
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/balajimakkena)
-- 🐱 GitHub: [balajimakkena](https://github.com/balajimakkena)
+- 💼 LinkedIn: [Balaji Makkena](https://www.linkedin.com/in/makkena-balaji-7a762831a)
+- 🐱 GitHub: [Balajimakkena](https://github.com/Balajimakkena)
